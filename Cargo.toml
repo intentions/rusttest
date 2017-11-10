@@ -1,0 +1,6 @@
+[package]
+name = "hello_world"
+authors = ["kjstrosahl@gmail.com"]
+version = "1.0.0"
+description = " basic hellow workd program - testing rust "
+publish = false
